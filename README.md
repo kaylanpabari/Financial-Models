@@ -62,7 +62,7 @@ This will print a summary of each scenario to the console and open a fan chart c
 
 Example output:
 
-![Fan chart comparing base case vs stress scenarios](assets/fan_chart.png)
+![Fan chart comparing scenarios](assets/fan_chart.png)
 
 ```
 
