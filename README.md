@@ -1,6 +1,6 @@
-# Financial-Models
+# Financial Models
 
-# Monte Carlo Portfolio Stress Tester
+## Monte Carlo Portfolio Stress Tester
 
 Simulate thousands of possible portfolio outcomes over time and stress-test them against custom market scenarios (recessions, crashes, stagflation, etc.) using geometric Brownian motion.
 
