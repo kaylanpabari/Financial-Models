@@ -55,14 +55,17 @@ pip install numpy matplotlib
 Run directly:
 
 ```bash
-python stress_test.py
+python monte carlo.py
 ```
 
 This will print a summary of each scenario to the console and open a fan chart comparing them visually.
 
 Example output:
 
+![Fan chart comparing base case vs stress scenarios](assets/fan_chart.png)
+
 ```
+
 Stress test results:
 
 Base case:
